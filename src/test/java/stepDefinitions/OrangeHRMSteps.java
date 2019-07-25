@@ -10,6 +10,6 @@ public class OrangeHRMSteps {
     @Given("launch chrome browser")
     public void launch()
     {
-      System.out.println("");
+      System.out.println("Launching browser");
     }
 }
