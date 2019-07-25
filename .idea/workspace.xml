@@ -2,11 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7d136b55-8ab0-4eff-8e13-8987e2405a9b" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/test/java/stepDefinitions/Search.java" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/Features/OrangeHRM.feature" afterPath="$PROJECT_DIR$/Features/OrangeHRM.feature" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/stepDefinitions/OrangeHRMSteps.java" afterPath="$PROJECT_DIR$/src/test/java/stepDefinitions/OrangeHRMSteps.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/test/java/stepDefinitions/test.java" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/stepDefinitions/Search.java" afterPath="$PROJECT_DIR$/src/test/java/stepDefinitions/Search.java" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -32,14 +29,24 @@
       <file leaf-file-name="Search.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/stepDefinitions/Search.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="51">
-              <caret line="3" column="16" lean-forward="false" selection-start-line="3" selection-start-column="16" selection-end-line="3" selection-end-column="16" />
+            <state relative-caret-position="136">
+              <caret line="8" column="0" lean-forward="true" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="OrangeHRMSteps.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="test.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/test/java/stepDefinitions/test.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="85">
+              <caret line="5" column="0" lean-forward="true" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="OrangeHRMSteps.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/stepDefinitions/OrangeHRMSteps.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="204">
@@ -75,8 +82,9 @@
       <list>
         <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/Features/OrangeHRM.feature" />
-        <option value="$PROJECT_DIR$/src/test/java/stepDefinitions/Search.java" />
         <option value="$PROJECT_DIR$/src/test/java/stepDefinitions/OrangeHRMSteps.java" />
+        <option value="$PROJECT_DIR$/src/test/java/stepDefinitions/Search.java" />
+        <option value="$PROJECT_DIR$/src/test/java/stepDefinitions/test.java" />
       </list>
     </option>
   </component>
@@ -488,14 +496,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/stepDefinitions/Search.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" column="16" lean-forward="false" selection-start-line="3" selection-start-column="16" selection-end-line="3" selection-end-column="16" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/stepDefinitions/OrangeHRMSteps.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="204">
@@ -505,6 +505,22 @@
             <element signature="e#246#247#0" expanded="true" />
             <element signature="e#282#283#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/stepDefinitions/Search.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="0" lean-forward="true" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/stepDefinitions/test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="0" lean-forward="true" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
